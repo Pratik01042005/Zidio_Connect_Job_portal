@@ -5,9 +5,6 @@ The project provides an online platform where job seekers can apply for jobs and
 🏆 Internship Information
 
 Company: Zidio Development
-
 Role: Java Full Stack Developer Intern
-
 Project: Job Portal Web Application
-
 Duration:3 months
